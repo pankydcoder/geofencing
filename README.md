@@ -1,0 +1,4 @@
+geofencing
+==========
+
+geofencing capabilities API
